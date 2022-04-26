@@ -19,3 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heba-ibrahem&show_icons=true&locale=en" alt="heba-ibrahem" /></p>
 
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=heba-ibrahem&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="heba-ibrahem"" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-ibrahem&layout=compact&theme=radical&hide_border=true" alt="heba-ibrahem"" /></p>
+
+
