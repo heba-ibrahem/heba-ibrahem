@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heba Ibrahem</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Angular , React js**
+- 🌱 I’m currently learning **Angular , Vue , Laravel**
 
 - 💬 Ask me about **HTML, CSS, JS , Angular**
 
